@@ -1,0 +1,168 @@
+@font-face {
+  font-family: "Open Sans", sans-serif;
+  src: url(../fonts/OpenSans-Regular.ttf);
+  font-family: "Poppins", sans-serif;
+  src: url(../fonts/Poppins-Regular.ttf);
+}
+.nav {
+  display: inline;
+  height: 30px;
+  margin-left: 66px;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+}
+
+.navnav {
+  text-align: center;
+  padding-top: 30px;
+  font-weight: 500;
+  border-bottom: 1px solid black;
+  /* height: 87px; */
+  padding-bottom: 30px;
+}
+a {
+  margin-right: 66px;
+  text-decoration: none;
+  color: black;
+  font-size: 18px;
+  line-height: 27px;
+}
+
+.maintext {
+  text-align: center;
+  margin-top: 72px;
+  font-weight: bold;
+  font-size: 24px;
+  line-height: 29px;
+}
+
+img {
+  width: 313px;
+  top: 206.59px;
+  margin: 10px;
+}
+.container {
+  display: inline-block;
+  width: 333px;
+  height: 481px;
+  margin-left: 110.25px;
+  margin-left: 100px;
+}
+.cont {
+  margin-top: 166px;
+  border: 1px solid #000000;
+}
+
+.head {
+  width: 265.95px;
+  height: 25.52px;
+  font-weight: lighter;
+  padding-left: 26px;
+  margin-top: 20px;
+  margin-bottom: 18.48px;
+  font-size: 20px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 700;
+}
+
+.text {
+  width: 282.71px;
+  height: 51.04px;
+  padding-left: 26px;
+  margin-bottom: 21.96px;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+}
+button {
+  /* font-size: larger; */
+  margin-top: 23px;
+  height: 30px;
+  width: 118px;
+  margin-left: 215px;
+  cursor: pointer;
+  border: 1px solid black;
+  border-radius: 4px;
+  font-weight: 400;
+  font-family: "Poppins", sans-serif;
+  font-size: 12px;
+  line-height: 18px;
+}
+.list {
+  margin-top: 62px;
+  list-style-type: circle;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  margin-left: 50px;
+  margin-top: 115px;
+  width: 263px;
+}
+
+.about {
+  margin-top: 183px;
+  margin-left: 517px;
+  font-size: 40px;
+  line-height: 60px;
+  color: #7d0000;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+}
+.abouttext {
+  margin-top: 117px;
+  margin-left: 175px;
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 38px;
+  width: 775px;
+  font-family: "Open Sans", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+}
+.aboutad {
+  margin-top: 108px;
+  margin-left: 175px;
+  font-size: 25px;
+  line-height: 38px;
+  font-family: "Open Sans", sans-serif;
+  font-style: italic;
+  font-weight: 400;
+}
+.contact {
+  margin-left: 609px;
+  margin-top: 183px;
+  line-height: 60px;
+  font-size: 40px;
+  color: #7d0000;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+}
+.contactp {
+  margin-top: 117px;
+  margin-left: 175px;
+  text-decoration: underline;
+  font-style: italic;
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 38px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+  text-transform: lowercase;
+}
+.contactad {
+  margin-top: 28px;
+  margin-left: 175px;
+  font-size: 25px;
+  font-weight: 600;
+  line-height: 38px;
+  margin-bottom: 28px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+}
+.contactspan {
+  margin-left: 175px;
+  font-size: 25px;
+  line-height: 38px;
+  font-weight: 600;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 600;
+}
